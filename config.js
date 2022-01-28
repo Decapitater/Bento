@@ -75,13 +75,13 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'HTB Academy',
+      name: 'HTB',
       icon: 'box',
       link: 'https://academy.hackthebox.com/dashboard',
     },
     {
       id: '6',
-      name: 'Pico Ctf',
+      name: 'Pico',
       icon: 'command',
       link: 'https://play.picoctf.org/practice',
     },
