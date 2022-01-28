@@ -75,15 +75,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'HTB Academy',
+      icon: 'box',
+      link: 'https://academy.hackthebox.com/dashboard',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Pico Ctf',
+      icon: 'command',
+      link: 'https://play.picoctf.org/practice,
     },
   ],
 
