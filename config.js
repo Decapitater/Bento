@@ -83,7 +83,7 @@ const CONFIG = {
       id: '6',
       name: 'Pico Ctf',
       icon: 'command',
-      link: 'https://play.picoctf.org/practice,
+      link: 'https://play.picoctf.org/practice',
     },
   ],
 
