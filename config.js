@@ -99,8 +99,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Reddit',
+        link: 'reddit.com',
       },
       {
         name: 'Classic',
