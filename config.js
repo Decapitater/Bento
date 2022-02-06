@@ -100,7 +100,7 @@ const CONFIG = {
     firstList: [
       {
         name: 'Reddit',
-        link: 'reddit.com',
+        link: 'https://www.reddit.com',
       },
       {
         name: 'Classic',
