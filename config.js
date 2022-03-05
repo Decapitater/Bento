@@ -99,7 +99,7 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Reddit',
+        name: 'Youtube',
         link: 'https://www.reddit.com',
       },
       {
