@@ -99,8 +99,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Food Planner',
-        link: 'https://www.eatthismuch.com',
+        name: 'Charted',
+        link: 'https://napchart.com/snapshot/dwXR5emxW',
       },
       {
         name: 'Classic',
